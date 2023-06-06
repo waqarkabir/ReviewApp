@@ -72,3 +72,6 @@ J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0
 J:\Ahmed\ReviewApp\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
 J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\Humanizer.dll
 J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\MailKit.dll
+J:\Ahmed\ReviewApp\WebApp\WebApp\bin\Debug\net6.0\MimeKit.dll
